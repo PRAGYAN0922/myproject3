@@ -1,3 +1,5 @@
 this is main
 this is the second version
-this is the new branch
+i am inside new branch
+bug is fixed
+
