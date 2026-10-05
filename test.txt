@@ -3,4 +3,5 @@ this is the second version
 i am inside new branch
 bug is fixed
 bug 1 is present
+bug 1 is fixed
 
